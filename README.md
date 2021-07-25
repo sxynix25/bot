@@ -1,2 +1,2 @@
-# bot
-ifsdhjoaöds
+# Server-Bot
+.
